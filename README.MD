@@ -1,6 +1,7 @@
 # Analysis of NIDS Generalization
 
-	The last step in an analysis of NIDS generalization between datasets of different contexts. Code is maintained for reproducibility of the source material and will not be improved upon nor will it be updated in any way.
+	The last step in an analysis of NIDS generalization between datasets of different contexts.
+	Code is maintained for reproducibility of the source material and will not be improved upon nor will it be updated in any way.
 
 ## Fist step
 
